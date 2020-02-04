@@ -4,10 +4,10 @@ public class converter {
 
 	 	System.out.println("rectangles");
 
-	 	double length;
-	 	double width;
-	 	double perimeter;
-	 	double area;
+	 	int length;
+	 	int width;
+	 	int perimeter;
+	 	int area;
 	 	length 12;
 	 	width 5;
 
