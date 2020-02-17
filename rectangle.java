@@ -14,8 +14,8 @@ public class converter {
 	 	perimeter = (2 * length + 2 * width);
 	 	area = (lenght * width);
 
-	 	System.out.println("\n" + area "area")
-	 	System.out.println("\n" + perimeter "perimeter" )
+	 	System.out.println("\n" + area "area");
+	 	System.out.println("\n" + perimeter "perimeter" );
 
 	 }	
 
